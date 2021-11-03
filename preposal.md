@@ -9,6 +9,8 @@ Idea 1: Make an rpg-like game using Idle. The amount of things listed here are w
  -Player will fight at least 6 enemies to not make it feel too fast (First boss should be easy to beat, last should be hard)
  -Power-ups will exist in the game. Health power-ups and boost potions are a must, but more power ups might be added.
  -Easter Eggs maybe?
+ 
+ Idea 1 is the one I plan to do
 
 Idea 2: Make a new gamemode in the game Overwatch using the built in creation tools. Creation tools include 
 things that we have learned in class.
