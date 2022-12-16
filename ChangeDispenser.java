@@ -1,10 +1,5 @@
-//CIS2168 Data Structures 
-//Your Section Number: 003
 //Ousmane Diall tun47370@temple.edu
-//Which Assignment: Assign 5 
 //Program name: ChangeDispenser
-
-package assign5_template;
 
 import java.util.List;
 import java.util.ArrayList;
